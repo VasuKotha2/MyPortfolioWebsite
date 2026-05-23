@@ -19,3 +19,6 @@ http://localhost:5173
 
 npm run build
 # MyPortfolioWebsite
+
+npm run build
+npm run deploy
